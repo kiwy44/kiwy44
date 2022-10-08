@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kiwy44
 - 👀 I’m interested in software development, gardening, card games and darts
 - 🌱 I’m currently learning software technologies
-- 💞️ I’m looking to collaborate on interesting and useful tasks
+- 💞️ I’m looking to collaborate on interesting and useful projects and tasks
 - 📫 How to reach me: it's confidental currently... :)
 
 <!---
